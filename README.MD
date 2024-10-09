@@ -3,8 +3,7 @@
 ### Build and Run the Service
 
 ```bash
-cargo build --release
-cargo run --release
+cargo run
 ```
 
 The service will start listening on `127.0.0.1:3030`.
